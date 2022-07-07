@@ -1,24 +1,27 @@
-# Project
+# App Templates
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+App Templates are packaged app samples designed to reduce the time it takes a developer to deploy their code to Azure. Unlike standalone example code, the goal of App Templates is to provide all the components to deploy an app to Azure with automation via GitHub Actions or other CI/CD services. 
 
-As the maintainer of this project, please make a few updates:
+Each sample consists of example code, CI/CD components, and documentation containing all the required steps.
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+App Templates are designed to be compatible with [Azure Accelerators](https://github.com/Azure/azure-dev/) which are currently in preview. These templates follow the same file structure and are straightforward to convert to Azure Accelerators once all the components of the template (e.g. programming language) are supported. The purpose of App Templates is to deliver the value of accelerated onboarding for developers who are new to Azure, without needing to go through all the Azure Accelerator steps. App Templates which prove valuable are then simple to convert to Azure Accelerators at a later date.
+
+## Pre-requisites
+- Azure Subscription and you must be the owner(or know the owner) of the subscription for configuring automatated deployments
+
+## Sample templates
+
+- [Static Web App with Cosmos DB](https://github.com/microsoft/csu-digiapps-p-azure-function-graphql-cosmosdb)
+- [.NET app on App Service](https://github.com/microsoft/csu-digiapps-p-azure-sql-db-dotnet)
+- [Node.js - Azure Graph - CosmosDB](https://github.com/microsoft/csu-digiapps-p-azaccel-cosmos-graph-nodejs) (coming soon)
+- Java Spring boot on AKS / LZA (coming soon)
+
 
 ## Contributing
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
-
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
+- Identify a sample app you plan to make into an app template
+- Follow steps 1-3 listed here: [How to Azure dev enable (aka dev ify) a project](https://github.com/Azure/azure-dev/wiki/How-to-Azure-dev-enable-(aka-dev-ify)-a-project)
+- Add .devcontainer, .github and .github/workflow components
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
