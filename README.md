@@ -15,7 +15,6 @@ App Templates are designed to be compatible with [Azure Accelerators](https://gi
 - [.NET app on App Service](https://github.com/Azure-Samples/app-templates-dotnet-azuresql-appservice)
 - Java Spring boot on AKS / LZA (coming soon)
 - [Node.js - Azure Graph - CosmosDB](https://github.com/microsoft/csu-digiapps-p-azaccel-cosmos-graph-nodejs) (coming soon)
-- 
 
 
 ## Contributing
