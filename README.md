@@ -16,6 +16,7 @@ App Templates are open to any technology some may not be on the azd roadmap and 
 - [.NET app on App Service](https://github.com/Azure-Samples/app-templates-dotnet-azuresql-appservice)
 - [Java Spring boot on AKS](https://github.com/Azure-Samples/app-templates-springboot-app-on-AKS)
 - [Static Web App with Cosmos DB](https://github.com/Azure-Samples/app-templates-staticwebapp-cosmosdb)
+- [Integration Services - APIM + ServiceBus + Functions + Cosmos](https://github.com/Azure-Samples/app-templates-integration-services)
 - [Node.js - Azure Graph - CosmosDB](https://github.com/microsoft/csu-digiapps-p-azaccel-cosmos-graph-nodejs) (coming soon)
 
 
