@@ -21,6 +21,7 @@ App Templates are open to any technology some may not be on the azd roadmap and 
 - [Static Web App with Cosmos DB](https://github.com/Azure-Samples/app-templates-staticwebapp-cosmosdb)
 - [Integration Services - APIM + ServiceBus + Functions + Cosmos](https://github.com/Azure-Samples/app-templates-integration-services)
 - [Microservices integration - APIM + Container Apps + AppService + Functions](https://github.com/Azure-Samples/app-templates-microservices-integration)
+- [WordPress on Azure Container Apps](https://github.com/Azure-Samples/apptemplate-wordpress-on-ACA)
 
 
 ## Contributing
