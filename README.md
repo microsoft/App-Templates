@@ -27,7 +27,7 @@ App Templates are open to any technology some may not be on the azd roadmap and 
 ## Contributing
 
 - Identify a sample app you plan to make into an app template
-- Follow steps 1-3 listed here: [How to Azure dev enable (aka dev ify) a project](https://github.com/Azure/azure-dev/wiki/How-to-Azure-dev-enable-(aka-dev-ify)-a-project)
+- Follow the steps listed here to make the template azd compatible: [Make your project compatible with Azure Developer CLI] (https://learn.microsoft.com/azure/developer/azure-developer-cli/make-azd-compatible?pivots=azd-create)
 - Add .devcontainer, .github and .github/workflow components
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
