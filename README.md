@@ -14,16 +14,16 @@ App Templates are open to any technology some may not be on the azd roadmap and 
 ## Sample templates
 
 - [.NET app on App Service](https://github.com/Azure-Samples/app-templates-dotnet-azuresql-appservice)
-- [Java Spring Boot on AKS](https://github.com/Azure-Samples/app-templates-springboot-app-on-AKS)
-- [Java microservices based Spring Boot on AKS](https://github.com/Azure-Samples/app-templates-springboot-microservices-on-AKS)
-- [Spring Boot on Azure Spring Apps](https://github.com/Azure-Samples/apptemplates-microservices-spring-app-on-AzureSpringApps)
-- [JBoss EAP on Appservice](https://github.com/Azure-Samples/app-templates-JBossEAP-on-AppService)
-- [Spring Boot PetClinic Microservices Application on Azure Red Hat Openshift (ARO)](https://github.com/Azure-Samples/app-templates-springboot-microservices-on-ARO)
-- [WordPress on Azure Container Apps](https://github.com/Azure-Samples/apptemplate-wordpress-on-ACA)
 - [Integration Services - APIM + ServiceBus + Functions + Cosmos](https://github.com/Azure-Samples/app-templates-integration-services)
+- [JBoss EAP on Appservice](https://github.com/Azure-Samples/app-templates-JBossEAP-on-AppService)
+- [Jakarta EE Oracle WLS on AKS](https://github.com/Azure-Samples/app-templates-WLS-on-aks)
+- [Java Spring boot on AKS](https://github.com/Azure-Samples/app-templates-springboot-app-on-AKS)
+- [Java microservices based spring boot on AKS](https://github.com/Azure-Samples/app-templates-springboot-microservices-on-AKS)
 - [Microservices integration - APIM + Container Apps + AppService + Functions](https://github.com/Azure-Samples/app-templates-microservices-integration)
+- [Spring Boot PetClinic Microservices Application on Azure Red Hat Openshift (ARO)](https://github.com/Azure-Samples/app-templates-springboot-microservices-on-ARO)
+- [Spring Boot on Azure Spring Apps](https://github.com/Azure-Samples/apptemplates-microservices-spring-app-on-AzureSpringApps)
 - [Static Web App with Cosmos DB](https://github.com/Azure-Samples/app-templates-staticwebapp-cosmosdb)
-
+- [WordPress on Azure Container Apps](https://github.com/Azure-Samples/apptemplate-wordpress-on-ACA)
 
 
 ## Contributing
