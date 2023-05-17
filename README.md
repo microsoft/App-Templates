@@ -8,6 +8,8 @@ App Templates are designed to be compatible with the [Azure Developer CLI(azd)](
 
 App Templates are open to any technology some may not be on the azd roadmap and can be deployed using the READ ME guidance. The purpose of App Templates is to deliver and prove the value of accelerated onboarding for developers who are new to Azure. Developing examples for `azd` is one of our aims that fit into the broader goal of accelerated developer onboarding.
 
+If you are looking for enterprise scale guidance on design pillars like Reliability, Performance, Networking, leverage design areas recommendation and reference implementation on [Landing Zone Accelerators](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/app-platform/ready)
+
 ## Pre-requisites
 - Azure Subscription and you must be the owner(or know the owner) of the subscription for configuring automatated deployments
 
