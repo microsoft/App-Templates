@@ -4,7 +4,7 @@ App Templates are packaged app samples designed to reduce the time it takes a de
 
 Each sample consists of example code, CI/CD components, and documentation containing all the required steps.
 
-App Templates are designed to be compatible with the [Azure Developer CLI(azd)](https://github.com/Azure/azure-dev/) which is currently in preview. These templates follow the same file structure and are straightforward to convert to `azd` compatible templates once all the components of the template (e.g. programming language) are supported. 
+App Templates are designed to be compatible with the [Azure Developer CLI(azd)](https://github.com/Azure/azure-dev/). These templates follow the same file structure and are straightforward to convert to `azd` compatible templates once all the components of the template (e.g. programming language) are supported. 
 
 App Templates are open to any technology some may not be on the azd roadmap and can be deployed using the READ ME guidance. The purpose of App Templates is to deliver and prove the value of accelerated onboarding for developers who are new to Azure. Developing examples for `azd` is one of our aims that fit into the broader goal of accelerated developer onboarding.
 
