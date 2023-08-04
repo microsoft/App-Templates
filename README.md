@@ -11,12 +11,13 @@ App Templates are open to any technology some may not be on the azd roadmap and 
 If you are looking for enterprise scale guidance on design pillars like Reliability, Performance, Networking, leverage design areas recommendation and reference implementation on [Landing Zone Accelerators](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/app-platform/ready)
 
 ## Pre-requisites
-- Azure Subscription and you must be the owner(or know the owner) of the subscription for configuring automatated deployments
+- Azure Subscription and you must be the owner(or know the owner) of the subscription for configuring automated deployments
 
 ## Sample templates
 
 - [.NET app on App Service](https://github.com/Azure-Samples/app-templates-dotnet-azuresql-appservice)
 - [Integration Services - APIM + ServiceBus + Functions + Cosmos](https://github.com/Azure-Samples/app-templates-integration-services)
+- [Java SpringApp with Azure OpenAI](https://github.com/Azure-Samples/app-templates-java-openai-springapps)
 - [JBoss EAP on Appservice](https://github.com/Azure-Samples/app-templates-JBossEAP-on-AppService)
 - [Jakarta EE IBM Open Liberty on AKS](https://github.com/Azure-Samples/app-templates-Liberty-on-aks)
 - [Jakarta EE Oracle WebLogic Server (WLS) on AKS](https://github.com/Azure-Samples/app-templates-WLS-on-aks)
