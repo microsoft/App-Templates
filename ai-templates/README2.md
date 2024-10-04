@@ -1,3 +1,6 @@
+## AI Apps Template
+The table below provides a list of GitHub repositories containing intelligent apps using Azure Open AI service with detailed information on deployment, use cases, technologies utilized, deployment steps, and more.
+These repositories serve as a source of inspiration for creating and deploying a functional Proof of Concept (PoC) or MVP ( Minimal Valueable Product) and they are not intended for production use.
 <table width: 100% >
     <tr class="first-row">
         <th>Repo & Description</th>
