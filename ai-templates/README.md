@@ -2,7 +2,7 @@
 The table below provides a list of GitHub repositories containing intelligent apps using Azure Open AI service with detailed information on deployment, use cases, technologies utilized, deployment steps, and more.
 These repositories serve as a source of inspiration for creating and deploying a functional Proof of Concept (PoC) or MVP ( Minimal Valueable Product) and they are not intended for production use.
 
-We collect more metadata about ai apps samples listed below. You can consult them in this [spreadsheet](./openai-apps-catalogue)
+We collect more metadata about ai apps samples listed below. You can consult them in this [spreadsheet](openai-apps-catalogue.xlsx)
 
 <table width: 100% >
     <tr class="first-row">
@@ -11,7 +11,7 @@ We collect more metadata about ai apps samples listed below. You can consult the
         <th>Frameworks and Azure Services</th>
     </tr>
       <tr>
-        <td>https://github.com/MSUSAzureAccelerators/Azure-Cognitive-Search-Azure-OpenAI-Accelerator.
+        <td>[AI Multi-Agent Architecture 3 or 5 days POC](https://github.com/MSUSAzureAccelerators/Azure-Cognitive-Search-Azure-OpenAI-Accelerator).
         Your organization requires a Multi-Channel Smart Chatbot and a search engine capable of comprehending diverse types of data scattered across various locations</td>
         <td>chat with company documents, chat with  business data, chat with API, RAG, conversational chat, vector search </td>
         <td>Python, Langchain, AppService, AzureSql, CosmosDB, Azure AI Search, Document Intelligence</td>
